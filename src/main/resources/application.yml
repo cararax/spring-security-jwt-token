@@ -6,4 +6,4 @@ spring:
     name: JWT Demo
 
 jwt:
-  secret: JWT-demo-secret
+  secret: secretJWTDEMO
